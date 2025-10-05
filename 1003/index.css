@@ -7,7 +7,6 @@ table, td {
 /* 套用文字從上到下的格式 */
 .rl {
     writing-mode: vertical-rl;
-    text-align: center;
 }
 /* 調整字與字之間的寬度 */
 .wide-text {
