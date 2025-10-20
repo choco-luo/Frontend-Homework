@@ -1,0 +1,14 @@
+/* 排除th, 設置table底下文字全局置中以及td定義為表格 */
+table, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    text-align: center;
+}
+/* 套用文字從上到下的格式 */
+.rl {
+    writing-mode: vertical-rl;
+}
+/* 調整字與字之間的寬度 */
+.wide-text {
+    letter-spacing: 3em;
+}

@@ -1,0 +1,13 @@
+.card {
+    padding: 30px;
+    width: 400px;
+}
+
+.background-color {
+    background-color: rgb(153, 199, 205);
+    border-radius: 30px;
+}
+
+.font-color {
+    color: rgb(123, 160, 213);
+}

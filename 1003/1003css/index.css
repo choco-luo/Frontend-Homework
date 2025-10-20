@@ -1,0 +1,19 @@
+.aaa {
+    color: rgb(129, 129, 240);
+    margin: 50px;
+}
+.bbb{
+    color: rgb(131, 226, 133);
+    margin: 35px;
+}
+.yyy{
+    color: darkcyan;
+    font-size: 25px;
+}
+.YYY{
+    color: brown;
+    font-size: 30px;
+}
+#li{
+    background-color: aquamarine;
+}
