@@ -1,3 +1,4 @@
+<img width="2070" height="475" alt="Image" src="https://github.com/user-attachments/assets/63236e01-6338-4ab5-ba19-b4764b20f2ca" />
 ### 作業記錄區:
 - 2025/10/02 已上傳[√]
 - 2025/10/03 筆記&作業 已上傳[√]
