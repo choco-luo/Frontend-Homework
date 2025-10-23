@@ -1,0 +1,12 @@
+.block-margin {
+    margin: 1em;
+    background-color: rgb(234, 236, 236);
+    padding: 5px;
+    width: 450px;
+    border-radius: 10px;
+}
+.box {
+    background-color: rgb(165, 198, 234);
+    width: 450px;
+    height: 10px;
+}

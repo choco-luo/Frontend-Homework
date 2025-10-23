@@ -1,0 +1,22 @@
+.card-container {
+    width: 1000px;
+    margin: 40px auto;
+    background-color: #d7d3d3;
+    overflow: hidden;
+}
+
+.card {
+    width: 168px;
+    background-color: rgb(194, 196, 203);
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    float: left;
+}
+
+.card-img {
+    width: 100%;
+    aspect-ratio: 4 / 3; /* 這是調整螢幕比例 */
+    /* height: 126px; */
+    object-fit: cover; /* 適應定義好長寬高的圖片 */
+}
